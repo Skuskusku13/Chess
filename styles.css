@@ -1,0 +1,225 @@
+h1
+{   
+    font-size: 40px;
+    font-family: fantasy;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    background-color: none;
+}
+ 
+h2
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px rgb(54, 54, 56) outset;
+    font-family: fantasy;
+    clear: both;
+}
+
+
+nav li
+{
+    font-size: xx-large;
+    font-family: fantasy;
+    display: flex;
+    display: inline-block;
+    list-style-type: none;
+    margin-inline: 13px;
+}
+
+
+nav a
+{
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #fff;
+    margin-bottom: inherit;
+}
+
+
+#menu 
+{
+    text-align: center;
+    background-image: url(image_H1/marbre_noir.jpg);
+    height: auto;
+    width: auto;
+    opacity: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#accueil 
+{
+    margin: 0px;
+    padding: 0px;
+    /* float: left; */
+    
+}
+
+#chess 
+{ 
+    border: 3px solid black;
+    margin: 0px;
+    padding: 0px;
+    width: 49%;
+    height: 320px;
+}
+
+#chess_2
+{
+    border: 3px solid black;
+    margin: 0px;
+    padding: 0px;
+    width:49%;
+    height: 320px;
+    float: right;
+}
+
+body
+{
+    background-image: url(image_H1/marbre.jpg);
+    font-family: sans-serif;
+}
+
+#mail{
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#le_commencement, #presentation, #le_Pat, #principe_de_jeu, #fin_de_partie
+{
+    text-align: center;
+    background-color: peachpuff;
+    opacity: 70%;
+    font-size: 35px;
+}
+
+#gif_1
+{
+    margin: 13px;
+    padding: auto;
+    width: auto;
+    height: 280px;
+    float: right;
+
+}
+
+#present
+{
+    margin: 13px;
+    padding: 0;
+    width: auto;
+    height: 280px;
+    float: left;
+    
+}   
+
+#creation 
+{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 280px;
+    float: right;
+    /* display: block; */
+    /* margin-inline: 10px; */
+}
+
+#pat
+{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 220px;
+    float: right;
+}
+
+#principe
+{
+    margin: 0px;
+    padding: 0px;
+    width: 500px;
+    height: auto;
+    float: left;
+}
+
+#categorie
+{
+    font-size: 23px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    
+}
+
+.categorie__
+{
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: block;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#unique
+{
+    background-image: url(image_H1/marbre_noir.jpg);
+    width: 70%;
+    margin: auto;
+    float: center;
+}
+
+.blanco
+{
+    color: azure;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.plateau_1, .plateau_2, .plateau_3, .plateau_4
+{
+    border: 2px solid black;
+}
+
+#Dan
+{
+    color: black;
+}
+
+#pion, #cavalier, #fou, #tour, #dame, #roi, #famille
+{
+    margin: 0;
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+}
+
+#sku
+{
+    background-image: url(image_H1/marbre_noir.jpg);
+    width: 100%;
+    margin: auto;
+    /* float: center; */
+    /* align-items: center; */
+}
+
+.q
+{
+    width: auto;
+    height: 312px;
+}
+
+.marg
+{
+    margin: 25px;
+    padding: 0;
+    border: 2px solid rgb(195, 195, 195);
+}
